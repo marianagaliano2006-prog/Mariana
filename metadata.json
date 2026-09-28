@@ -1,0 +1,6 @@
+{
+  "name": "Argentina: Paradoja del Desarrollo Humano (2010–2025)",
+  "description": "Presentación editorial interactiva sobre el análisis multidimensional de la paradoja socioeconómica e institucional en Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
